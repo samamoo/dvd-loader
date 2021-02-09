@@ -26,6 +26,7 @@ function pickColour() {
 
 function draw() {
   background(0);
+  
   tint(r,g,b);
   dvd.resize(150, 0)
   image(dvd, x, y)
