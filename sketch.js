@@ -13,8 +13,8 @@ function setup() {
   createCanvas(800, 600);
   x = random(width);
   y = random(height);
-  xspeed = 5;
-  yspeed = 5;
+  xspeed = 3;
+  yspeed = 3;
   pickColour();
 }
 
