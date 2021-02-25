@@ -10,7 +10,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(800, 600);
+  createCanvas(800, 533);
   x = random(width);
   y = random(height);
   xspeed = 3;
